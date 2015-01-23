@@ -6,6 +6,7 @@
   January 2015
   
   Details at:
+  http://johnkeefe.net/make-every-week-a-tiny-cat-toy
   
   Derived from the "Blink" example code, which is in the public domain.
  */
